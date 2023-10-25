@@ -39,4 +39,4 @@ bot.onText(/\/add (.+)/, (msg, match) => {
         });
 });
 
-console.log('Bot is running...')
+console.log('Bot is running.....')
